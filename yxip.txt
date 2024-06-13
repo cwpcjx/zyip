@@ -58,6 +58,9 @@
 52.78.235.190:8443#KR
 185.214.103.156:10643#KR
 112.153.118.61:11777#KR
+jp.cf.zhetengsha.eu.org:443#JP
+sg.cf.zhetengsha.eu.org:443#SIN
+us.cf.zhetengsha.eu.org:443#US
 154.9.241.153:6666#LAX
 74.211.107.124:40001#LAX
 192.9.248.209:60000#SJC
